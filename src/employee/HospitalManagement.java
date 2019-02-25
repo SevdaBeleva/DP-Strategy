@@ -1,4 +1,4 @@
-package employeeShower;
+package employee;
 
 public class HospitalManagement {
 	
